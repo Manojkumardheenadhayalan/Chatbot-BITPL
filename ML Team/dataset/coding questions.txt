@@ -1,0 +1,1001 @@
+How do you write a Python program to calculate the factorial of a number?
+Write a program in Java to find the sum of all even numbers in an array.
+Can you create a C++ program to reverse a linked list?
+Write a Python program to check if a string is a palindrome.
+How can you implement a binary search algorithm in C?
+Write a Java program to find the largest element in an array.
+Can you create a C++ program to implement a stack data structure?
+Write a Python program to count the occurrences of a word in a text file.
+How do you implement a bubble sort algorithm in C#?
+Write a program in JavaScript to find the Fibonacci sequence up to a given number.
+Can you create a C program to check if a number is prime?
+Write a Python program to find the GCD (Greatest Common Divisor) of two numbers.
+How can you implement a depth-first search (DFS) algorithm in C++?
+Write a Java program to sort an array using the insertion sort algorithm.
+Can you create a C++ program to implement a queue data structure?
+Write a Python program to generate all permutations of a string.
+How do you implement a selection sort algorithm in Ruby?
+Write a program in C to calculate the factorial of a number using recursion.
+Can you create a Java program to reverse a string?
+Write a C++ program to find the intersection of two arrays.
+How can you implement a binary tree data structure in Python?
+Write a Python program to find the sum of all prime numbers up to a given limit.
+Can you create a C program to find the largest prime factor of a number?
+Write a JavaScript program to check if a given string is an anagram of another.
+How do you implement a breadth-first search (BFS) algorithm in C#?
+Write a program in Python to calculate the square root of a number.
+Can you create a C++ program to implement a linked list data structure?
+Write a Java program to check if a number is Armstrong or not.
+How can you implement a merge sort algorithm in C?
+Write a Python program to find the common elements between two arrays.
+How do you implement a binary search tree (BST) insertion in C++?
+Write a C program to reverse a stack using recursion.
+Can you create a JavaScript program to find the longest substring without repeating characters?
+Write a Python program to calculate the factorial of a large number using a library.
+How can you implement a quicksort algorithm in Java?
+Write a program in C++ to find the median of two sorted arrays.
+Write a Java program to find the LCM (Least Common Multiple) of two numbers.
+How do you implement a binary search tree (BST) deletion in Python?
+Write a Python program to find the longest palindrome substring in a string.
+Can you create a C program to find the sum of natural numbers using recursion?
+Write a JavaScript program to reverse a linked list.
+How can you implement a depth-first search (DFS) algorithm in Ruby?
+Write a program in Python to find the intersection of two linked lists.
+Write a C++ program to implement a binary search tree (BST) traversal.
+How do you implement a breadth-first search (BFS) algorithm in C?
+Write a Java program to find the nth Fibonacci number using recursion.
+Can you create a Python program to perform matrix multiplication?
+Write a C program to find the factorial of a number without using recursion.
+Write a Python program to find the longest increasing subarray in an array.
+How can you implement a stack using two queues in C++?
+Write a JavaScript program to find the common elements between two arrays.
+Write a program in C++ to reverse words in a string.
+How do you implement a binary search algorithm in Java?
+Write a Python program to calculate the sum of natural numbers up to a given limit.
+Can you create a C program to implement a circular linked list?
+Write a Java program to check if a string contains only digits.
+Write a C++ program to find the second largest element in an array.
+How can you implement a bubble sort algorithm in Python?
+Write a Python program to find the longest common prefix among an array of strings.
+Write a program in JavaScript to find the intersection of two arrays.
+How do you implement a selection sort algorithm in C#?
+Write a program in C to find the LCM (Least Common Multiple) of two numbers.
+Can you create a C++ program to implement a binary search tree (BST) deletion?
+Write a Java program to check if a number is a perfect square.
+Write a Python program to find the nth term in the Fibonacci sequence using memoization.
+How can you implement a depth-first search (DFS) algorithm in C++?
+Write a Python program to check if a linked list is a palindrome.
+Write a C program to calculate the power of a number using recursion.
+Write a JavaScript program to sort an array of objects based on a specific property.
+How do you implement a binary tree data structure in Java?
+Write a Python program to perform matrix addition.
+Can you create a C program to find the factorial of a large number using iteration?
+Write a C++ program to find the kth smallest element in a binary search tree (BST).
+Write a program in Python to reverse a queue.
+How can you implement a merge sort algorithm in C#?
+Write a Java program to find the sum of digits of a number using recursion.
+Write a Python program to find the longest subarray with a sum less than or equal to a given value.
+How do you implement a hash table using separate chaining in C++?
+Write a program in C++ to check if a linked list contains a cycle.
+Can you create a JavaScript program to find the first non-repeating character in a string?
+Write a Python program to implement the binary search algorithm recursively.
+How can you implement a quicksort algorithm in Python?
+Write a C program to calculate the square of a number using recursion.
+Write a Java program to find the prime factors of a number.
+Write a Python program to find the maximum sum of a subarray in an array.
+How do you implement a binary heap data structure in C++?
+Write a JavaScript program to check if a given string is a valid palindrome.
+Write a Python program to find the kth largest element in an array.
+How can you implement a stack using two queues in Java?
+Write a program in C++ to reverse a string using a stack.
+Write a Java program to find the shortest path between two nodes in a graph.
+Write a Python program to find the longest subsequence of a string that is a palindrome.
+How do you implement a breadth-first search (BFS) algorithm in Python?
+Write a C program to find the sum of all elements in a binary tree.
+Write a JavaScript program to find the longest increasing subsequence in an array.
+Write a Python program to check if a given number is a palindrome.
+How can you implement a binary search tree (BST) traversal in C?
+Write a C++ program to find the GCD (Greatest Common Divisor) of an array of numbers.
+Write a Java program to count the number of occurrences of a character in a string.
+Can you create a Python program to reverse a doubly linked list?
+
+Write a Python program to check if a string is a valid email address.
+Implement a Java program to find the prime numbers within a given range.
+Create a C++ program to implement a circular queue data structure.
+Write a Python program to calculate the area of a triangle given its base and height.
+Implement a C program to reverse a string without using any library functions.
+Create a JavaScript program to convert a decimal number to binary.
+Write a Python program to calculate the factorial of a number using recursion.
+Implement a Java program to find the largest and smallest elements in an array.
+Create a C++ program to implement a binary search tree (BST) insertion.
+Write a Python program to generate a random password.
+Implement a C# program to find the longest common prefix of an array of strings.
+Write a program in Ruby to reverse the words in a sentence.
+Create a Python program to check if a number is a palindrome.
+Write a Java program to calculate the sum of natural numbers up to a given limit.
+Implement a C++ program to find the intersection of two sets.
+Write a Python program to find the second largest element in an array.
+Create a JavaScript program to sort an array of objects based on a specific property.
+Write a Python program to count the occurrences of a character in a string.
+Implement a C program to calculate the power of a number using a loop.
+Write a Java program to reverse a linked list.
+Create a C++ program to implement a stack using an array.
+Write a Python program to calculate the Fibonacci sequence up to a given number.
+Implement a Python program to find the greatest common divisor (GCD) of two numbers.
+Write a program in Swift to check if a string contains only unique characters.
+Create a Perl program to read and write to a text file.
+Write a Python program to find the longest palindrome substring in a string.
+Implement a C program to find the sum of all even numbers in an array.
+Write a JavaScript program to find the maximum sum of a subarray in an array.
+Create a Python program to perform matrix addition.
+Write a Java program to implement a queue using two stacks.
+Implement a C++ program to find the kth smallest element in an array.
+Write a Python program to reverse a binary tree.
+Create a Ruby program to calculate the factorial of a number using recursion.
+Implement a Python program to check if a linked list is a palindrome.
+Write a program in C# to find the intersection of two arrays.
+Create a Python program to validate a credit card number.
+Write a Java program to find the sum of digits of a number.
+Implement a C++ program to implement a priority queue data structure.
+Write a Python program to check if a given string is an anagram of another.
+Create a C program to calculate the area of a circle.
+Write a JavaScript program to find the LCM (Least Common Multiple) of two numbers.
+Implement a Python program to perform matrix multiplication.
+Write a Python program to find the shortest path in a graph using Dijkstra's algorithm.
+Create a Java program to calculate the square root of a number using Newton's method.
+Write a C++ program to reverse a doubly linked list.
+Implement a Python program to calculate the sum of all prime numbers up to a given limit.
+Write a Python program to convert a decimal number to hexadecimal.
+Create a Perl program to count the number of words in a text file.
+Write a program in Swift to find the longest increasing subsequence in an array.
+Implement a C program to find the largest element in an array using recursion.
+Write a Python program to calculate the area of a rectangle.
+Create a Ruby program to find the longest common prefix of an array of strings.
+Implement a Java program to find the median of two sorted arrays.
+Write a JavaScript program to find the GCD (Greatest Common Divisor) of two numbers.
+Create a Python program to perform string concatenation without using the "+" operator.
+Write a Python program to find the sum of natural numbers using recursion.
+Implement a C++ program to find the longest increasing subarray in an array.
+Write a Python program to generate a random number within a given range.
+Create a C program to check if a string is a palindrome using recursion.
+Implement a Java program to implement a binary search tree (BST) deletion.
+Write a program in C# to reverse a string without using library functions.
+Create a Python program to implement a queue data structure using linked lists.
+Write a Python program to find the largest prime factor of a number.
+Implement a C++ program to find the kth element from the end of a linked list.
+Write a Python program to find the common elements between two arrays.
+Create a JavaScript program to find the longest substring without repeating characters.
+Write a program in Perl to find and replace text in a text file.
+Implement a Python program to perform matrix subtraction.
+Write a Python program to check if a number is a perfect square.
+Create a Ruby program to implement a circular queue data structure.
+Write a Java program to calculate the sum of even Fibonacci numbers up to a given limit.
+Implement a C++ program to reverse words in a sentence.
+Write a Python program to find the intersection of two linked lists.
+Create a C program to implement a binary search algorithm.
+Implement a JavaScript program to find the longest subarray with a sum less than or equal to a given value.
+Write a Python program to calculate the area of a circle using the radius.
+Create a Python program to implement a doubly linked list.
+Write a program in Swift to find the longest substring with unique characters.
+Implement a C program to calculate the LCM (Least Common Multiple) of two numbers.
+Write a Java program to reverse words in a string.
+Create a C++ program to implement a binary search tree (BST) traversal.
+Write a Python program to find the longest common subsequence of two strings.
+Implement a Python program to validate an ISBN number.
+Write a Python program to calculate the sum of a geometric progression.
+Create a Perl program to calculate the area of a triangle.
+Implement a JavaScript program to check if a number is prime.
+Write a Python program to perform binary addition of two binary numbers.
+Create a Java program to calculate the area of a rectangle.
+Implement a C++ program to perform string reversal using recursion.
+Write a Python program to find the longest subsequence of a string that is a palindrome.
+Create a Python program to calculate the volume of a sphere.
+Implement a Ruby program to implement a binary search tree (BST) insertion.
+Write a program in C# to find the largest element in a matrix.
+Create a Python program to calculate the sum of all natural numbers in a range.
+Implement a Python program to check if a linked list contains a cycle.
+Write a JavaScript program to find the kth element from the end of an array.
+Create a C program to find the GCD (Greatest Common Divisor) of an array of numbers.
+Implement a Python program to perform binary subtraction of two binary numbers.
+Write a Python program to calculate the area of a trapezoid.
+Create a Python program to implement a stack using linked lists.
+Implement a C++ program to find the longest palindromic substring in a string.
+Write a Java program to calculate the sum of a harmonic series.
+Create a JavaScript program to check if a string is a valid URL.
+Implement a Python program to find the kth largest element in an array.
+Write a Python program to calculate the area of a parallelogram.
+Create a Ruby program to implement a circular linked list.
+Implement a C program to calculate the sum of a geometric progression.
+Write a Python program to calculate the volume of a cone.
+Create a Python program to implement a binary search tree (BST) traversal using an iterative approach.
+Implement a Perl program to find and replace multiple occurrences of a word in a text file.
+Write a program in Swift to find the longest common subsequence of two strings.
+Create a Python program to implement a doubly linked list with a tail.
+Implement a C++ program to perform matrix multiplication using recursion.
+Write a Python program to find the smallest prime number greater than a given number.
+Create a JavaScript program to perform binary division of two binary numbers.
+Implement a Python program to check if a string is a valid IPv4 address.
+Write a Python program to calculate the sum of a series of numbers using the formula for the sum of an arithmetic series.
+Create a C program to find the square of a number using recursion.
+Implement a Java program to check if a number is a palindrome.
+Write a Python program to calculate the area of a hexagon.
+Create a C++ program to implement a priority queue using a binary heap.
+Implement a Python program to find the longest subarray with a sum equal to a given value.
+Write a Python program to calculate the sum of the first n natural numbers using the arithmetic progression formula.
+Create a Python program to implement a binary search tree (BST) search operation.
+Implement a C# program to check if a string is a palindrome.
+Write a JavaScript program to calculate the area of an equilateral triangle.
+Create a Python program to find the sum of the squares of the first n natural numbers.
+Implement a C++ program to implement a queue using two stacks.
+Write a Python program to calculate the area of a rhombus.
+Create a Perl program to reverse the words in a sentence.
+Implement a Python program to check if a linked list is sorted.
+Write a program in Swift to find the LCM (Least Common Multiple) of two numbers.
+Create a Python program to implement a hash table using linear probing.
+Implement a Java program to find the shortest path between two nodes in a weighted graph using Dijkstra's algorithm.
+Write a Python program to calculate the area of a trapezoid given the lengths of its bases and height.
+Create a C++ program to implement a circular queue using linked lists.
+Implement a JavaScript program to check if a string is an anagram of a palindrome.
+Write a Python program to calculate the sum of the squares of all prime numbers less than a given number.
+Create a Python program to implement a binary search tree (BST) deletion using a recursive approach.
+Implement a C program to find the sum of all elements in a matrix.
+Write a Python program to calculate the area of an isosceles triangle.
+Create a Ruby program to implement a stack using an array.
+Implement a Python program to check if a binary tree is a binary search tree (BST).
+Write a program in C# to check if a number is a power of two.
+Create a Python program to implement a queue using two linked lists.
+Implement a Python program to find the longest common subsequence of three strings.
+Write a JavaScript program to calculate the area of a rectangle given its length and width.
+Create a Python program to implement a binary heap data structure.
+Implement a C++ program to find the kth smallest element in a binary search tree (BST) using Morris Traversal.
+Write a Python program to check if a binary tree is balanced.
+Create a Java program to calculate the area of a parallelogram given the lengths of its sides and the included angle.
+Implement a Python program to calculate the sum of a geometric progression using recursion.
+Write a Python program to calculate the area of a polygon given its vertices.
+Create a C++ program to find the common elements between three arrays.
+Implement a Python program to calculate the area of a pentagon.
+Write a Python program to calculate the sum of all natural numbers in a range using recursion.
+Create a Perl program to find the longest substring without repeating characters.
+Implement a Python program to check if a number is a power of four.
+Write a program in Swift to calculate the area of a circle given its radius.
+Create a Python program to implement a doubly linked list with a circular structure.
+Implement a C program to check if a binary tree is a binary search tree (BST).
+Write a Python program to calculate the area of a regular polygon given its number of sides and side length.
+Create a Python program to implement a hash table using quadratic probing.
+Implement a Java program to find the largest prime number less than a given number.
+Write a Python program to calculate the sum of a series using the formula for the sum of a geometric series.
+Create a C++ program to calculate the area of a trapezoid given the lengths of its bases and height.
+Implement a Python program to find the shortest path in a weighted graph using Bellman-Ford algorithm.
+Write a Python program to check if a binary tree is a subtree of another binary tree.
+Create a Python program to implement a queue using a circular array.
+Implement a JavaScript program to check if a number is a power of three.
+Write a Python program to calculate the area of a sector given its central angle and radius.
+Create a Python program to implement a binary search tree (BST) traversal using Morris Traversal.
+Implement a C++ program to check if a binary tree is balanced.
+Write a Python program to calculate the area of an ellipse given its major and minor axes.
+Create a Ruby program to implement a stack using linked lists.
+Implement a Python program to check if a binary tree is a binary search tree (BST) using an iterative approach.
+Write a program in C# to calculate the area of a regular polygon given its number of sides and circumradius.
+Create a Python program to implement a circular queue using an array.
+Implement a Python program to find the shortest path in a weighted graph using Floyd-Warshall algorithm.
+Write a Python program to check if a binary tree is a mirror image of itself.
+Create a Perl program to find the longest palindromic substring in a string.
+Implement a Python program to check if a binary tree is symmetric.
+Write a program in Swift to calculate the area of a regular polygon given its side length and apothem.
+Create a Python program to implement a hash table using separate chaining.
+Implement a C program to calculate the area of a regular polygon given its side length and number of sides.
+Write a Python program to find the diameter of a binary tree.
+Create a Python program to implement a queue using a circular linked list.
+Implement a JavaScript program to calculate the area of a triangle given its three sides.
+Write a Python program to find the in-order predecessor of a node in a binary search tree (BST).
+Create a Python program to implement a binary search tree (BST) deletion using an iterative approach.
+Implement a C++ program to check if a binary tree is symmetric.
+Write a Java program to check if a binary tree is a subtree of another binary tree.
+Create a Python program to implement a hash table using open addressing.
+Implement a Python program to find the least common ancestor (LCA) of two nodes in a binary tree.
+Write a Python program to check if a binary tree is a binary search tree (BST) using Morris Traversal.
+Create a C++ program to implement a circular linked list with a tail.
+Implement a Python program to find the maximum depth of a binary tree.
+Write a JavaScript program to check if a binary tree is a binary search tree (BST) using an iterative approach.
+Create a Python program to implement a binary search tree (BST) search operation using recursion.
+Implement a Java program to calculate the area of a polygon given its vertices.
+Write a Python program to find the greatest common divisor (GCD) of two numbers using the Euclidean algorithm.
+Implement a Java program to reverse a binary tree.
+Create a C++ program to find the longest common subsequence of two strings using dynamic programming.
+Write a Python program to generate the nth Fibonacci number iteratively.
+Implement a C program to sort an array of strings in lexicographical order.
+Create a JavaScript program to implement a doubly linked list with insert and delete operations.
+Write a Python program to calculate the sum of all numbers in a matrix.
+Implement a C++ program to find the shortest path in an unweighted graph using BFS.
+Create a Python program to implement a circular queue using arrays.
+Write a Python program to check if a number is a power of two using bitwise operations.
+Implement a Java program to find the longest increasing subsequence in an array using dynamic programming.
+Create a C program to calculate the factorial of a number using an iterative approach.
+Write a JavaScript program to find the intersection of two linked lists.
+Implement a Python program to calculate the area of a triangle given its three sides.
+Create a Python program to reverse a linked list in groups of a given size.
+Write a Python program to check if a string is a valid JSON object.
+Implement a C++ program to implement a binary search tree (BST) traversal using an iterative approach.
+Create a Ruby program to implement a queue using arrays.
+Write a Python program to find the longest common prefix among an array of strings using a trie data structure.
+Implement a C program to find the kth element from the end of a linked list.
+Create a JavaScript program to find the sum of all nodes in a binary tree.
+Write a Python program to perform matrix multiplication using the Strassen algorithm.
+Implement a Java program to find the shortest path between two nodes in an unweighted graph using BFS.
+Create a C++ program to implement a hash table using linear probing.
+Write a Python program to calculate the area of a rectangle given its length and breadth.
+Implement a Python program to calculate the nth term in the Fibonacci sequence using memoization.
+Create a Python program to implement a stack using a linked list.
+Write a Python program to find the longest subarray with a sum equal to zero.
+Implement a C program to check if a linked list is a palindrome using a stack.
+Create a Perl program to implement a circular queue with insert and delete operations.
+Write a Python program to implement a binary search tree (BST) search operation using an iterative approach.
+Implement a Python program to check if a number is a palindrome using recursion.
+Create a Python program to implement a hash table using separate chaining.
+Write a program in Swift to find the largest element in an array.
+Implement a C++ program to find the GCD (Greatest Common Divisor) of an array of numbers using the Euclidean algorithm.
+Create a Python program to implement a queue using two stacks.
+Write a Python program to find the longest increasing subarray in an array.
+Implement a JavaScript program to calculate the area of a trapezoid given its bases and height.
+Create a Python program to implement a binary heap data structure with insert and delete operations.
+Write a Python program to check if a linked list has a cycle using Floyd's cycle-finding algorithm.
+Implement a Java program to calculate the area of a circle using the Monte Carlo method.
+Create a C++ program to implement a priority queue using a binary heap.
+Write a Python program to find the longest palindromic substring in a string using dynamic programming.
+Implement a Python program to check if a binary tree is a binary search tree (BST) using an inorder traversal.
+Create a Ruby program to implement a circular queue using linked lists.
+Write a Python program to calculate the area of a regular polygon given its number of sides and side length.
+Implement a C program to calculate the sum of all elements in a binary tree.
+Create a Python program to implement a binary search tree (BST) insertion using a recursive approach.
+Write a JavaScript program to find the intersection of three arrays.
+Implement a Python program to find the maximum sum of a subarray with a size less than or equal to k.
+Create a Python program to implement a doubly linked list with insert, delete, and reverse operations.
+Write a Python program to implement a binary search algorithm recursively.
+Implement a C++ program to find the longest subarray with a sum less than or equal to a given value.
+Create a Python program to implement a hash table using quadratic probing.
+Write a Python program to calculate the area of an equilateral triangle given its side length.
+Implement a Python program to check if a binary tree is a binary search tree (BST) using a recursive approach.
+Create a Java program to calculate the area of a parallelogram given its base, height, and included angle.
+Write a Python program to find the in-order successor of a node in a binary search tree (BST).
+Implement a C program to find the sum of all nodes at even levels in a binary tree.
+Create a Python program to implement a queue using a circular linked list.
+Write a Python program to check if a binary tree is balanced.
+Implement a Python program to calculate the area of a pentagon given its apothem and side length.
+Create a JavaScript program to implement a stack with push, pop, and min operations in O(1) time.
+Write a Python program to implement a binary search tree (BST) deletion using a recursive approach.
+Implement a C++ program to calculate the sum of all leaf nodes in a binary tree.
+Create a Ruby program to implement a binary search tree (BST) traversal using a Morris Traversal.
+Write a Python program to check if a number is prime using the Sieve of Eratosthenes algorithm.
+Implement a Python program to find the longest common subsequence of three strings using dynamic programming.
+Create a Python program to implement a hash table using open addressing with linear probing.
+Write a Python program to calculate the area of a sector given its radius and central angle.
+Implement a Java program to calculate the area of a regular polygon given its number of sides and circumradius.
+Create a C++ program to calculate the sum of all leaf nodes in a binary tree using recursion.
+Write a Python program to check if a binary tree is a binary search tree (BST) using an iterative approach.
+Implement a Python program to calculate the area of an ellipse given its major and minor axes.
+Create a Python program to implement a stack with push, pop, and getMin operations in O(1) time.
+Write a Python program to find the diameter of a binary tree using recursion.
+Implement a JavaScript program to check if a binary tree is balanced.
+Create a Python program to calculate the area of a regular polygon given its side length and apothem.
+Write a Python program to implement a hash table using separate chaining with linked lists.
+Implement a C program to calculate the LCM (Least Common Multiple) of two numbers using the GCD.
+Create a Python program to find the sum of all nodes at odd levels in a binary tree.
+Write a Python program to implement a binary search tree (BST) search operation using a recursive approach.
+Implement a Python program to check if a binary tree is symmetric.
+Create a Java program to calculate the area of a triangle given its base, height, and one side.
+Write a Python program to find the least common ancestor (LCA) of two nodes in a binary tree using recursion.
+Implement a C++ program to calculate the sum of all leaf nodes in a binary tree using an iterative approach.
+Create a Python program to implement a queue using two circular linked lists.
+Write a Python program to check if a binary tree is a binary search tree (BST) using a Morris Traversal.
+Implement a Python program to check if a number is a power of three using logarithms.
+Create a Python program to calculate the area of a regular polygon given its number of sides and circumcircle radius.
+Write a JavaScript program to find the intersection of three linked lists.
+Implement a C program to calculate the factorial of a number using an iterative approach.
+Create a Python program to calculate the area of a parallelogram given its base, height, and one side.
+Write a Python program to implement a binary search tree (BST) insertion using an iterative approach.
+Implement a Python program to calculate the area of a circle using the Monte Carlo method.
+Create a Ruby program to implement a doubly linked list with insert, delete, and reverse operations.
+Write a Python program to find the longest palindromic substring in a string using Manacher's algorithm.
+Implement a Python program to calculate the nth term in the Fibonacci sequence using an iterative approach.
+Create a Python program to implement a hash table using quadratic probing with open addressing.
+Write a Python program to implement a stack using two queues.
+Implement a C++ program to find the kth smallest element in a binary search tree (BST) using an iterative approach.
+Create a JavaScript program to calculate the area of a triangle given its three sides using Heron's formula.
+Write a Python program to implement a binary heap data structure with insert and extractMin operations.
+Implement a Python program to check if a binary tree is a binary search tree (BST) using a Morris Traversal.
+Create a Python program to implement a hash table using linear probing with open addressing.
+Write a program in Swift to implement a queue using arrays.
+Implement a C++ program to calculate the sum of all nodes in a binary tree at even levels.
+Create a Python program to reverse a doubly linked list in groups of a given size.
+Write a Python program to check if a binary tree is a binary search tree (BST) using an inorder traversal without extra space.
+Implement a JavaScript program to find the intersection of two arrays without using extra space.
+Create a Python program to implement a stack with push, pop, and getMax operations in O(1) time.
+Write a Python program to find the longest subsequence of a string that is a palindrome using dynamic programming.
+Implement a C program to check if a string is a palindrome using two pointers.
+Create a Python program to implement a binary search tree (BST) deletion using an iterative approach with parent pointers.
+Write a Python program to calculate the area of a pentagon given its side length and apothem.
+Implement a Python program to check if a binary tree is balanced without using recursion.
+Create a Python program to implement a queue using a circular array with dynamic resizing.
+Write a Python program to implement a hash table using separate chaining with linked lists and resizing.
+Implement a C++ program to calculate the area of an ellipse given its major and minor axes using the Monte Carlo method.
+Create a JavaScript program to check if a binary tree is symmetric without using recursion.
+Write a Python program to implement a stack with push, pop, and getMin operations in O(1) time using two stacks.
+Implement a Python program to find the diameter of a binary tree without using recursion.
+Create a Python program to implement a binary search tree (BST) search operation using an iterative approach with parent pointers.
+Write a Python program to check if a binary tree is symmetric using a level-order traversal.
+Implement a Java program to calculate the area of a triangle given its three vertices.
+Create a C++ program to implement a circular queue with insert, delete, and display operations.
+Write a Python program to find the longest subsequence of a string that is a palindrome using a recursive approach.
+Implement a Python program to check if a number is prime using the Miller-Rabin primality test.
+Create a Python program to implement a hash table using cuckoo hashing.
+Write a Python program to calculate the area of a regular polygon given its circumcircle radius and number of sides.
+Implement a C program to calculate the LCM (Least Common Multiple) of two numbers using prime factorization.
+Create a Python program to implement a queue using two stacks with amortized O(1) enqueue and dequeue operations.
+Write a Python program to find the longest palindromic substring in a string using dynamic programming with memoization.
+Implement a Python program to check if a binary tree is a binary search tree (BST) using an inorder traversal without extra space.
+Create a Ruby program to implement a stack with push, pop, and getMin operations in O(1) time using a doubly linked list.
+Write a Python program to find the in-order successor of a node in a binary search tree (BST) using parent pointers.
+Implement a Python program to calculate the area of a trapezoid given its bases and height using the Monte Carlo method.
+Create a Python program to implement a binary heap data structure with insert and extractMin operations using an array.
+Write a Python program to check if a linked list has a cycle using a fast and slow pointer approach.
+Implement a C++ program to calculate the sum of all nodes in a binary tree at odd levels.
+Create a JavaScript program to implement a hash table using open addressing with quadratic probing.
+Write a Python program to implement a stack with push, pop, and getMax operations in O(1) time using a modified stack data structure.
+Implement a Python program to find the kth smallest element in a binary search tree (BST) using Morris Traversal.
+Create a Python program to reverse a doubly linked list in groups of a given size using a recursive approach.
+Write a Python program to check if a binary tree is a binary search tree (BST) using an inorder traversal with constant extra space.
+Implement a C program to check if a string is a palindrome using a recursive approach.
+Create a Python program to implement a binary search tree (BST) deletion using an iterative approach without parent pointers.
+Write a Python program to calculate the area of a rectangle given its length and width using the Monte Carlo method.
+Implement a Python program to check if a binary tree is balanced using an iterative approach.
+Create a Perl program to implement a queue using two circular linked lists with dynamic resizing.
+Write a Python program to implement a hash table using separate chaining with linked lists and resizing.
+Implement a JavaScript program to calculate the area of a triangle given its three sides using Heron's formula.
+Create a Python program to check if a binary tree is symmetric using a level-order traversal without using recursion.
+Write a Python program to implement a stack with push, pop, and getMin operations in O(1) time using two stacks and memoization.
+Implement a Python program to find the diameter of a binary tree using a bottom-up traversal.
+Create a Python program to implement a binary search tree (BST) search operation using an iterative approach without parent pointers.
+Write a Python program to check if a binary tree is symmetric using a recursive approach with two helper functions.
+Implement a Java program to calculate the area of a triangle given its three vertices using the shoelace formula.
+Create a C++ program to implement a circular queue with insert, delete, and display operations using linked lists.
+Write a Python program to find the longest subsequence of a string that is a palindrome using an iterative approach with memoization.
+Implement a Python program to check if a number is prime using the AKS primality test.
+Create a Python program to implement a hash table using cuckoo hashing with dynamic resizing.
+Write a Python program to calculate the area of a regular polygon given its circumcircle radius and number of sides using trigonometry.
+Implement a C program to calculate the LCM (Least Common Multiple) of two numbers using the extended Euclidean algorithm.
+Create a Python program to implement a queue using two stacks with amortized O(1) enqueue and dequeue operations using a lazy approach.
+Write a Python program to find the longest palindromic substring in a string using Manacher's algorithm with linear time complexity.
+Implement a Python program to check if a binary tree is a binary search tree (BST) using a Morris Traversal with constant extra space.
+Create a Ruby program to implement a stack with push, pop, and getMin operations in O(1) time using a doubly linked list and memoization.
+Write a Python program to find the in-order successor of a node in a binary search tree (BST) without using parent pointers.
+Implement a Python program to calculate the area of a trapezoid given its bases and height using the trapezoidal rule.
+Create a Python program to implement a binary heap data structure with insert and extractMin operations using a dynamic array.
+Write a Python program to check if a linked list has a cycle using Floyd's cycle-finding algorithm with constant extra space.
+Implement a C++ program to calculate the sum of all nodes in a binary tree at even levels using an iterative approach.
+Create a JavaScript program to implement a hash table using open addressing with double hashing.
+Write a Python program to implement a stack with push, pop, and getMax operations in O(1) time using a modified queue data structure.
+Implement a Python program to find the kth smallest element in a binary search tree (BST) using an iterative approach with constant extra space.
+Create a Python program to reverse a doubly linked list in groups of a given size using an iterative approach.
+Write a Python program to check if a binary tree is a binary search tree (BST) using a Morris Traversal with constant extra space and a modified traversal order.
+Implement a C program to check if a string is a palindrome using two pointers and constant extra space.
+Create a Python program to implement a binary search tree (BST) deletion using an iterative approach without parent pointers and with constant extra space.
+Write a Python program to calculate the area of a rectangle given its length and width using the trapezoidal rule.
+Implement a Python program to check if a binary tree is balanced using a bottom-up traversal with constant extra space.
+Create a Perl program to implement a queue using two circular linked lists with dynamic resizing and efficient enqueue and dequeue operations.
+Write a Python program to implement a hash table using separate chaining with linked lists and resizing with a load factor threshold.
+Implement a JavaScript program to calculate the area of a triangle given its three sides using Heron's formula with a custom function.
+Create a Python program to check if a binary tree is symmetric using an iterative approach with a queue and without using recursion.
+Write a Python program to implement a stack with push, pop, and getMin operations in O(1) time using two stacks and memoization.
+Implement a Python program to find the diameter of a binary tree using an iterative approach with two traversals.
+Create a Python program to implement a binary search tree (BST) search operation using an iterative approach without parent pointers and with constant extra space.
+Write a Python program to check if a binary tree is symmetric using an iterative approach with two helper functions and a stack.
+Implement a Java program to calculate the area of a triangle given its three vertices using the shoelace formula and a custom function.
+Create a C++ program to implement a circular queue with insert, delete, and display operations using linked lists and dynamic resizing.
+Write a Python program to find the longest subsequence of a string that is a palindrome using an iterative approach with memoization and efficient space usage.
+Implement a Python program to check if a number is prime using the Rabin-Miller primality test.
+Create a Python program to implement a hash table using cuckoo hashing with dynamic resizing and efficient insertion and lookup.
+Write a Python program to calculate the area of a regular polygon given its circumcircle radius and number of sides using trigonometry with a custom function.
+Implement a C program to calculate the LCM (Least Common Multiple) of two numbers using bitwise operations.
+Create a Python program to implement a queue using two stacks with amortized O(1) enqueue and dequeue operations using a lazy approach and efficient space usage.
+Write a Python program to find the longest palindromic substring in a string using Manacher's algorithm with linear time complexity and efficient space usage.
+Implement a Python program to check if a binary tree is a binary search tree (BST) using a Morris Traversal with constant extra space, a modified traversal order, and an efficient algorithm for validation.
+Write a Python program to find the factorial of a number using recursion.
+Implement a Java program to reverse a string.
+Create a C++ program to find the largest element in an array.
+Write a Python program to calculate the power of a number using recursion.
+Implement a C program to sort an array of integers using the bubble sort algorithm.
+Create a JavaScript program to find the second largest element in an array.
+Write a Python program to check if a string is a palindrome.
+Implement a C++ program to calculate the sum of an array of floating-point numbers.
+Create a Python program to find the greatest common divisor (GCD) of two numbers.
+Write a Java program to calculate the square root of a number.
+Implement a C program to calculate the sum of natural numbers up to a given limit using a while loop.
+Create a Ruby program to reverse a linked list.
+Write a Python program to find the sum of all even numbers in an array.
+Implement a Python program to calculate the factorial of a number using an iterative approach.
+Create a JavaScript program to find the largest prime number less than a given number.
+Write a Python program to check if a number is even or odd.
+Implement a C++ program to calculate the sum of digits of a number.
+Create a Python program to find the LCM (Least Common Multiple) of two numbers.
+Write a Java program to find the sum of digits of a number using recursion.
+Implement a C program to reverse a string without using any library functions.
+Create a Perl program to check if a string is a palindrome using regular expressions.
+Write a Python program to find the Fibonacci series up to a given limit.
+Implement a JavaScript program to find the longest word in a string.
+Create a Python program to find the prime factors of a number.
+Write a Python program to calculate the sum of natural numbers up to a given limit using a for loop.
+Implement a C++ program to find the factorial of a number using memoization.
+Create a Python program to calculate the area of a circle.
+Write a Python program to find the maximum element in a binary tree.
+Implement a Python program to reverse a linked list using recursion.
+Create a Ruby program to check if a number is prime.
+Write a Python program to find the sum of all odd numbers in an array.
+Implement a Python program to calculate the power of a number using an iterative approach.
+Create a JavaScript program to find the second smallest element in an array.
+Write a Python program to check if a string is an anagram of another string.
+Implement a C++ program to find the sum of digits of a number using recursion.
+Create a Python program to calculate the factorial of a number using a while loop.
+Write a Java program to reverse a linked list.
+Implement a C program to calculate the sum of an arithmetic series.
+Create a Perl program to reverse a sentence.
+Write a Python program to find the greatest common divisor (GCD) of an array of numbers.
+Implement a Python program to calculate the sum of an array of integers using recursion.
+Create a Python program to find the square root of a number using the Newton-Raphson method.
+Write a Python program to check if a number is a palindrome using recursion.
+Implement a C++ program to sort an array of integers using the insertion sort algorithm.
+Create a JavaScript program to calculate the sum of natural numbers up to a given limit using a while loop.
+Write a Python program to find the sum of digits of a number using an iterative approach.
+Implement a Python program to reverse a string using recursion.
+Create a Python program to check if a number is a perfect square.
+Write a Python program to find the LCM (Least Common Multiple) of an array of numbers.
+Implement a Java program to check if a string is a palindrome using a stack.
+Create a C++ program to find the factorial of a number using an iterative approach.
+Write a Python program to calculate the area of a triangle.
+Implement a C program to calculate the sum of natural numbers up to a given limit using a for loop.
+Create a Python program to find the maximum element in a binary search tree.
+Write a Perl program to find the longest word in a sentence.
+Implement a Python program to check if a number is a prime using the Sieve of Eratosthenes algorithm.
+Create a Ruby program to reverse a linked list using recursion.
+Write a Python program to find the sum of all prime numbers up to a given limit.
+Implement a JavaScript program to find the second largest element in an array without sorting.
+Create a Python program to calculate the power of a number using bitwise operations.
+Write a Python program to check if two strings are anagrams of each other using a dictionary.
+Implement a C++ program to calculate the sum of an arithmetic series using recursion.
+Create a Python program to check if a number is a palindrome using bitwise operations.
+Write a Java program to reverse a string using recursion.
+Implement a C program to sort an array of integers using the selection sort algorithm.
+Create a Python program to calculate the factorial of a number using tail recursion.
+Write a Python program to find the greatest common divisor (GCD) of two numbers using the Euclidean algorithm.
+Implement a Python program to reverse a linked list using an iterative approach.
+Create a JavaScript program to find the sum of digits of a number using recursion.
+Write a Python program to calculate the power of a number using the fast exponentiation method.
+Implement a C++ program to check if a number is a palindrome.
+Create a Python program to check if a number is a prime using the AKS primality test.
+Write a Python program to find the sum of natural numbers up to a given limit using the Gauss formula.
+Implement a Java program to calculate the area of a rectangle.
+Create a C program to find the largest prime number less than a given number.
+Write a Perl program to check if a string is a palindrome without using any library functions.
+Implement a Python program to find the Fibonacci series using an iterative approach.
+Create a Python program to find the sum of all even numbers in an array using list comprehension.
+Write a Python program to find the product of two matrices.
+Implement a JavaScript program to reverse a linked list using an iterative approach.
+Create a Python program to find the prime factors of a number using trial division.
+Write a Python program to check if a string is an anagram of another string using sorting.
+Implement a C++ program to calculate the sum of natural numbers up to a given limit using a while loop.
+Create a Python program to calculate the factorial of a number using a for loop.
+Write a Python program to find the largest element in a binary search tree without using recursion.
+Implement a Python program to reverse a string using a stack.
+Create a Ruby program to check if a number is prime using the Miller-Rabin primality test.
+Write a Python program to find the sum of digits of a number using the digital root.
+Implement a Python program to calculate the power of a number using modular exponentiation.
+Create a JavaScript program to check if a number is a palindrome using bitwise operations.
+Write a Python program to find the LCM (Least Common Multiple) of two numbers using the GCD.
+Implement a C program to sort an array of integers using the merge sort algorithm.
+Create a Python program to calculate the sum of an arithmetic series using the Gauss formula.
+Write a Python program to reverse a linked list using a recursive approach with a helper function.
+Implement a Java program to find the largest prime number less than a given number using the Sieve of Eratosthenes algorithm.
+Create a C++ program to check if a string is a palindrome using two pointers.
+Write a Python program to find the sum of natural numbers up to a given limit using a recursive function.
+Implement a Python program to calculate the factorial of a number using a while loop and a factorial accumulator.
+Create a Python program to check if a number is a perfect square using the square root method.
+Write a Python program to find the product of two matrices using nested loops.
+Implement a JavaScript program to reverse a string without using any library functions.
+Create a Python program to check if a number is prime using the Rabin-Miller primality test.
+Write a Python program to find the sum of digits of a number using the digital root formula.
+Implement a C++ program to calculate the power of a number using the fast exponentiation method.
+Create a Python program to check if a number is a palindrome using string manipulation.
+Write a Python program to find the LCM (Least Common Multiple) of an array of numbers using prime factorization.
+Implement a Java program to check if a string is an anagram of another string using a frequency map.
+Create a C program to reverse a sentence without using any library functions.
+Write a Python program to find the sum of all prime numbers up to a given limit using the Sieve of Eratosthenes algorithm.
+Implement a Python program to reverse a linked list using a stack.
+Create a JavaScript program to find the second smallest element in an array without sorting.
+Write a Python program to check if two strings are anagrams of each other using character counts.
+Implement a Python program to calculate the sum of an arithmetic series using a for loop.
+Create a Python program to check if a number is a palindrome using recursion and string manipulation.
+Write a Python program to find the greatest common divisor (GCD) of two numbers using prime factorization.
+Implement a C++ program to sort an array of integers using the quicksort algorithm.
+Create a Python program to calculate the factorial of a number using a recursive lambda function.
+Write a Java program to reverse a linked list without using recursion.
+Implement a C program to calculate the sum of natural numbers up to a given limit using the Gauss formula.
+Create a Perl program to reverse a sentence using regular expressions.
+Write a Python program to check if a number is a prime using trial division.
+Implement a Python program to find the Fibonacci series using memoization.
+Create a Python program to find the sum of all even numbers in an array using a for loop.
+Write a Python program to find the product of two matrices using nested list comprehension.
+Implement a JavaScript program to reverse a linked list using a recursive approach.
+Create a Python program to find the prime factors of a number using trial division and store them in a list.
+Write a Python program to check if a string is an anagram of another string using a dictionary and character counts.
+Implement a C++ program to calculate the sum of natural numbers up to a given limit using a recursive function.
+Create a Python program to calculate the factorial of a number using an iterative approach with a while loop.
+Write a Python program to find the largest element in a binary search tree using an iterative approach.
+Implement a Python program to reverse a string using slicing.
+Create a Ruby program to check if a number is prime using the AKS primality test.
+Write a Python program to find the sum of digits of a number using a recursive function.
+Implement a Python program to calculate the power of a number using bitwise operations and recursion.
+Create a JavaScript program to check if a number is a palindrome using string manipulation and recursion.
+Write a Python program to find the LCM (Least Common Multiple) of two numbers using the Euclidean algorithm.
+Implement a C program to sort an array of integers using the counting sort algorithm.
+Create a Python program to reverse a sentence without using any library functions and preserving whitespace.
+Write a Python program to find the sum of natural numbers up to a given limit using a while loop and arithmetic progression.
+Implement a Java program to reverse a linked list using a stack.
+Create a C++ program to check if a string is a palindrome using a recursive function.
+Write a Python program to find the product of two matrices using matrix multiplication.
+Implement a Python program to reverse a linked list using a doubly linked list.
+Create a Python program to check if a number is a perfect square using the Babylonian method.
+Write a Python program to check if two strings are anagrams of each other using sorting and comparison.
+Implement a JavaScript program to reverse a string without using any library functions and preserving special characters.
+Create a Python program to calculate the sum of digits of a number using a for loop and modular arithmetic.
+Write a Python program to find the greatest common divisor (GCD) of two numbers using the extended Euclidean algorithm.
+Implement a Python program to calculate the power of a number using a recursive function and memoization.
+Create a Python program to check if a number is a palindrome using string manipulation and a stack.
+Write a Python program to find the LCM (Least Common Multiple) of an array of numbers using the GCD.
+Implement a C program to sort an array of integers using the shell sort algorithm.
+Create a Perl program to reverse a sentence using string manipulation and regular expressions.
+Write a Python program to check if a number is prime using the Rabin-Miller primality test with multiple iterations.
+Implement a Python program to find the sum of digits of a number using a while loop and integer division.
+Create a Python program to reverse a linked list using a recursive function.
+Write a Python program to find the Fibonacci series using an iterative approach with two variables.
+Implement a JavaScript program to check if a number is a palindrome using bitwise operations and string manipulation.
+Create a Python program to check if two strings are anagrams of each other using character counts and sorting.
+Write a Python program to calculate the sum of an arithmetic series using a recursive function.
+Implement a Python program to reverse a string using a recursive lambda function.
+Create a Python program to check if a number is a perfect square using the binary search method.
+Write a Java program to check if a linked list is a palindrome.
+Implement a C++ program to sort an array of integers using the merge sort algorithm with a recursive function.
+Create a Python program to calculate the factorial of a number using an iterative approach with a for loop and a factorial accumulator.
+Write a Python program to find the largest element in a binary search tree using a recursive function.
+Implement a Python program to reverse a string using a deque data structure.
+Create a Ruby program to check if a number is prime using the Lucas-Lehmer primality test.
+Write a Python program to find the sum of digits of a number using a recursive function and modular arithmetic.
+Implement a Python program to calculate the power of a number using a recursive function and exponentiation by squaring.
+Create a JavaScript program to check if a number is a palindrome using string manipulation and a stack.
+Write a Python program to find the LCM (Least Common Multiple) of two numbers using prime factorization with a recursive function.
+Implement a C program to sort an array of integers using the radix sort algorithm.
+Create a Python program to reverse a sentence using string manipulation and list comprehension.
+Write a Python program to check if a number is prime using the Lucas-Lehmer primality test for Mersenne primes.
+Implement a Python program to find the sum of natural numbers up to a given limit using a recursive function.
+Create a Python program to calculate the factorial of a number using a recursive lambda function with memoization.
+Write a Python program to find the largest element in a binary search tree using an iterative approach with a stack.
+Implement a JavaScript program to reverse a string using a stack and a loop.
+Create a Python program to check if a number is a perfect square using the binary search method with a loop.
+Write a Python program to check if two strings are anagrams of each other using character counts and dictionary comparison.
+Implement a Python program to calculate the sum of an arithmetic series using an iterative approach with a for loop.
+Create a Python program to reverse a linked list using a recursive function with two pointers.
+Write a Python program to find the Fibonacci series using an iterative approach with a list.
+Implement a C++ program to check if a string is a palindrome using a recursive function and two pointers.
+Create a Python program to check if a number is prime using the Baillie-PSW primality test.
+Write a Python program to find the sum of digits of a number using an iterative approach with a while loop and integer division.
+Implement a Python program to calculate the power of a number using an iterative approach with a while loop and modular arithmetic.
+Create a JavaScript program to check if a number is a palindrome using bitwise operations and string manipulation.
+Write a Python program to find the LCM (Least Common Multiple) of an array of numbers using prime factorization with an iterative approach.
+Implement a C program to sort an array of integers using the heap sort algorithm.
+Create a Perl program to reverse a sentence using string manipulation and regular expressions with efficient space usage.
+Write a Python program to check if a number is prime using the Baillie-PSW primality test with multiple iterations.
+Implement a Python program to find the sum of natural numbers up to a given limit using an iterative approach with a for loop and arithmetic progression.
+Create a Python program to calculate the factorial of a number using an iterative approach with a while loop and a factorial accumulator.
+Write a Python program to find the largest element in a binary search tree using an iterative approach without recursion or a stack.
+Implement a Python program to reverse a string using a list and a loop.
+Create a Ruby program to check if a number is prime using the Wilson's theorem.
+Write a Python program to find the sum of digits of a number using an iterative approach with a for loop and integer division.
+Implement a Python program to calculate the power of a number using an iterative approach with a for loop and modular arithmetic.
+Write a Python program to calculate the factorial of a number without using recursion or loops.
+Implement a Java program to find the sum of all prime numbers in a given range.
+Create a C++ program to reverse a string in-place.
+Write a Python program to calculate the greatest common divisor (GCD) of three numbers.
+Implement a C program to perform matrix multiplication.
+Create a JavaScript program to check if a given string is a valid email address.
+Write a Python program to generate all permutations of a string.
+Implement a Python program to find the largest element in a stack without using additional data structures.
+Create a Ruby program to calculate the sum of all even Fibonacci numbers up to a given limit.
+Write a Python program to find the longest substring without repeating characters in a given string.
+Implement a Java program to reverse words in a sentence.
+Create a C++ program to check if a given number is a power of two.
+Write a Python program to implement the Sieve of Eratosthenes algorithm to find prime numbers.
+Implement a C program to calculate the area of a circle using function pointers.
+Create a JavaScript program to find the intersection of two arrays.
+Write a Python program to implement a queue using two stacks with efficient enqueue and dequeue operations.
+Implement a Python program to calculate the sum of all numbers in a list using list comprehension.
+Create a Perl program to find the first non-repeating character in a string.
+Write a Python program to find the longest common prefix among an array of strings.
+Implement a C++ program to perform matrix addition.
+Create a Python program to implement a binary search algorithm for a sorted array.
+Write a Java program to check if a given number is an Armstrong number.
+Implement a C program to calculate the area of a triangle using Heron's formula.
+Create a JavaScript program to count the number of vowels and consonants in a given string.
+Write a Python program to implement a doubly linked list.
+Implement a Python program to find the intersection point of two linked lists.
+Create a Ruby program to check if a given string is a valid URL.
+Write a Python program to implement a stack using a linked list.
+Implement a C++ program to perform matrix subtraction.
+Create a Python program to check if a given number is a palindrome without converting it to a string.
+Write a Python program to implement the Tower of Hanoi puzzle.
+Implement a Java program to find the largest prime factor of a given number.
+Create a C program to calculate the area of a rectangle using pointers.
+Write a Python program to calculate the Fibonacci series using memoization and dynamic programming.
+Implement a Python program to reverse a sentence word by word.
+Create a JavaScript program to remove duplicates from an array.
+Write a Python program to implement a binary search tree (BST) and perform insertions and deletions.
+Implement a Python program to find the longest increasing subarray in an array of integers.
+Create a Perl program to calculate the area of a circle using a user-defined function.
+Write a Python program to implement a queue using a circular linked list.
+Implement a C++ program to calculate the sum of the first n natural numbers using recursion.
+Create a Python program to find the square root of a number using the Babylonian method.
+Write a Python program to implement the Josephus problem.
+Implement a Java program to find the smallest common multiple of a range of numbers.
+Create a C program to perform matrix multiplication using pointers.
+Write a Python program to implement a linked list and perform insertions and deletions.
+Implement a Python program to find the union of two arrays.
+Create a JavaScript program to find the longest substring with at most two distinct characters in a string.
+Write a Python program to implement a stack using a list.
+Implement a C++ program to calculate the sum of the first n natural numbers using an iterative approach.
+Create a Python program to implement a binary search tree (BST) and perform search operations.
+Write a Python program to calculate the factorial of a number using a user-defined function.
+Implement a Python program to find the nth Fibonacci number using an iterative approach.
+Create a Ruby program to find the greatest common divisor (GCD) of two numbers using the Euclidean algorithm.
+Write a Python program to implement a circular queue using a list.
+Implement a Java program to check if a string is a palindrome without using additional data structures.
+Create a C program to calculate the area of a triangle using function pointers.
+Write a Python program to implement a priority queue using a heap data structure.
+Implement a Python program to find the longest common subsequence of two strings.
+Create a JavaScript program to reverse a string word by word.
+Write a Python program to implement the Tower of Hanoi puzzle using recursion.
+Implement a C++ program to find the largest prime factor of a given number using trial division.
+Create a Python program to implement a queue using a doubly linked list.
+Write a Python program to implement a binary search tree (BST) and perform traversal operations.
+Implement a Python program to find the longest palindromic substring in a given string.
+Create a Perl program to calculate the area of a rectangle using a user-defined function.
+Write a Python program to implement a stack using a linked list.
+Implement a C program to calculate the area of a trapezoid using pointers.
+Create a Python program to find the square root of a number using the Newton-Raphson method.
+Write a Python program to implement the Josephus problem using recursion.
+Implement a Java program to find the smallest common multiple of two numbers.
+Create a C++ program to perform matrix addition using function pointers.
+Write a Python program to implement a singly linked list with a cycle and detect the cycle.
+Implement a Python program to find the intersection of two linked lists without extra space.
+Create a JavaScript program to remove duplicates from an array without using additional data structures.
+Write a Python program to implement a binary search tree (BST) and perform deletion operations.
+Implement a Python program to find the longest increasing subsequence in an array of integers.
+Create a Ruby program to check if a given string is a valid IP address.
+Write a Python program to implement a circular queue using a doubly linked list.
+Implement a C program to calculate the area of a rectangle using pointers and function pointers.
+Create a Python program to implement a stack using a circular linked list.
+Write a Python program to implement the Tower of Hanoi puzzle iteratively.
+Implement a Java program to check if a given number is an Armstrong number using recursion.
+Create a C++ program to find the largest prime factor of a given number using the Pollard's rho algorithm.
+Write a Python program to implement a binary search tree (BST) and perform validation operations.
+Implement a Python program to find the longest common prefix of an array of strings.
+Create a Python program to implement a priority queue using a list.
+Write a Python program to implement a singly linked list with a cycle and find the cycle's starting node.
+Implement a Python program to find the intersection of two linked lists using additional data structures.
+Create a JavaScript program to remove duplicates from an array in-place.
+Write a Python program to implement a binary search tree (BST) and perform level-order traversal.
+Implement a C program to calculate the area of a trapezoid using function pointers and user-defined functions.
+Create a Python program to implement a queue using a circular linked list.
+Write a Python program to implement the Josephus problem iteratively.
+Implement a Java program to find the smallest common multiple of three numbers.
+Create a C++ program to perform matrix subtraction using function pointers.
+Write a Python program to implement a stack using a circular linked list.
+Implement a Python program to find the nth Fibonacci number using a user-defined function.
+Create a Ruby program to find the greatest common divisor (GCD) of three numbers using the Euclidean algorithm.
+Write a Python program to implement a binary search tree (BST) and find the lowest common ancestor of two nodes.
+Implement a Python program to find the longest palindromic substring in a given string using dynamic programming.
+Create a Perl program to calculate the area of a rectangle using a user-defined function and pointers.
+Write a Python program to implement a queue using a circular linked list with efficient enqueue and dequeue operations.
+Implement a C program to calculate the area of a circle using function pointers and user-defined functions.
+Create a JavaScript program to remove duplicates from an array without using additional data structures and without changing the order.
+Write a Python program to implement the Tower of Hanoi puzzle iteratively using stacks.
+Implement a Java program to check if a given string is a palindrome using recursion and pointers.
+Create a C++ program to find the largest prime factor of a given number using the Miller-Rabin primality test.
+Write a Python program to implement a binary search tree (BST) and find the in-order successor of a given node.
+Implement a Python program to find the longest common subsequence of two strings using dynamic programming.
+Create a Python program to implement a priority queue using a binary heap data structure.
+Write a Python program to implement a singly linked list with a cycle and find the cycle's length.
+Implement a Python program to find the intersection of two linked lists without using additional data structures and without modifying the lists.
+Create a JavaScript program to reverse words in a sentence without using additional data structures.
+Write a Python program to implement a stack using a circular linked list with efficient push and pop operations.
+Implement a C program to calculate the area of a trapezoid using function pointers and user-defined functions.
+Create a Python program to implement a queue using a circular linked list with efficient enqueue and dequeue operations and without using additional data structures.
+Write a Python program to implement the Josephus problem iteratively using a queue.
+Implement a Java program to find the smallest common multiple of four numbers.
+Create a C++ program to perform matrix multiplication using function pointers and dynamic memory allocation.
+Write a Python program to implement a binary search tree (BST) and find the in-order predecessor of a given node.
+Implement a Python program to find the longest increasing subsequence in an array of integers using dynamic programming.
+Create a Ruby program to check if a given string is a valid IPv6 address.
+Write a Python program to implement a circular queue using a list.
+Implement a Python program to find the nth Fibonacci number using memoization and dynamic programming.
+Create a JavaScript program to remove duplicates from an array in-place using a set.
+Write a Python program to implement a binary search tree (BST) and find the pre-order successor of a given node.
+Implement a Python program to find the longest palindromic substring in a given string using Manacher's algorithm.
+Create a Perl program to calculate the area of a rectangle using a user-defined function and pointers with efficient space usage.
+Write a Python program to implement a stack using a circular linked list with efficient push and pop operations and without using additional data structures.
+Implement a C program to calculate the area of a triangle using function pointers, user-defined functions, and dynamic memory allocation.
+Create a Python program to implement a queue using a circular linked list with efficient enqueue and dequeue operations and without using additional data structures or function pointers.
+Write a Python program to implement the Tower of Hanoi puzzle iteratively using stacks and dynamic programming.
+Implement a Java program to check if a given string is a palindrome without using recursion or pointers.
+Create a C++ program to find the largest prime factor of a given number using the Pollard's rho algorithm with multiple iterations.
+Write a Python program to implement a binary search tree (BST) and find the post-order successor of a given node.
+Implement a Python program to find the longest common prefix of an array of strings using trie data structure.
+Create a Python program to implement a priority queue using a binary heap data structure with efficient insertion and removal operations.
+Write a Python program to implement a singly linked list with a cycle and find the cycle's starting node and length without using additional data structures.
+Implement a Python program to find the intersection of two linked lists without using additional data structures and without modifying the lists, using Floyd's Cycle Detection Algorithm.
+Create a JavaScript program to reverse words in a sentence in-place without using additional data structures.
+Write a Python program to implement a stack using a circular linked list with efficient push and pop operations and without using additional data structures or function pointers.
+Implement a C program to calculate the area of a trapezoid using function pointers, user-defined functions, and dynamic memory allocation.
+Create a Python program to implement a queue using a circular linked list with efficient enqueue and dequeue operations and without using additional data structures, function pointers, or dynamic memory allocation.
+Write a Python program to implement the Josephus problem iteratively using a circular linked list.
+Implement a Java program to find the smallest common multiple of five numbers.
+Create a C++ program to perform matrix addition using function pointers and dynamic memory allocation.
+Write a Python program to implement a binary search tree (BST) and find the level-order successor of a given node.
+Implement a Python program to find the longest increasing subsequence in an array of integers without using dynamic programming.
+Create a Ruby program to check if a given string is a valid MAC address.
+Write a Python program to implement a circular queue using a list with efficient enqueue and dequeue operations.
+Implement a Python program to find the nth Fibonacci number using an iterative approach without recursion or memoization.
+Create a JavaScript program to remove duplicates from an array in-place using only the array itself.
+Write a Python program to implement a binary search tree (BST) and find the level-order predecessor of a given node.
+Implement a Python program to find the longest palindromic substring in a given string without using any additional data structures.
+Create a Perl program to calculate the area of a rectangle using a user-defined function and pointers with efficient space usage and no memory leaks.
+Write a Python program to implement a stack using a circular linked list with efficient push and pop operations and without using additional data structures, function pointers, or dynamic memory allocation.
+Implement a C program to calculate the area of a triangle using function pointers, user-defined functions, dynamic memory allocation, and efficient error handling.
+Create a Python program to implement a queue using a circular linked list with efficient enqueue and dequeue operations and without using additional data structures, function pointers, dynamic memory allocation, or error handling.
+Write a Python program to implement the Tower of Hanoi puzzle iteratively using stacks, dynamic programming, and efficient error handling.
+Implement a Java program to check if a given string is a palindrome without using recursion, pointers, or additional data structures.
+Create a C++ program to find the largest prime factor of a given number using the Pollard's rho algorithm with multiple iterations and efficient error handling.
+Write a Python program to implement a binary search tree (BST) and find the level-order successor of a given node without using recursion or additional data structures.
+Implement a Python program to find the longest common prefix of an array of strings without using a trie data structure.
+Create a Python program to implement a priority queue using a binary heap data structure with efficient insertion, removal, and error handling.
+Write a Python program to implement a singly linked list with a cycle and find the cycle's starting node and length without using additional data structures or error handling.
+Implement a Python program to find the intersection of two linked lists without using additional data structures, modifying the lists, recursion, or error handling, using Floyd's Cycle Detection Algorithm.
+Create a JavaScript program to reverse words in a sentence in-place without using additional data structures or error handling.
+Write a Python program to implement a stack using a circular linked list with efficient push and pop operations without using additional data structures, function pointers, or error handling.
+Implement a C program to calculate the area of a trapezoid using function pointers, user-defined functions, dynamic memory allocation, and efficient error handling.
+Create a Python program to implement a queue using a circular linked list with efficient enqueue and dequeue operations without using additional data structures, function pointers, dynamic memory allocation, or error handling.
+Write a Python program to implement the Josephus problem iteratively using a circular linked list, efficient error handling, and without using additional data structures or recursion.
+Implement a Java program to find the smallest common multiple of six numbers.
+Create a C++ program to perform matrix addition using function pointers, dynamic memory allocation, and efficient error handling.
+Write a Python program to implement a binary search tree (BST) and find the level-order predecessor of a given node without using recursion, additional data structures, or error handling.
+Implement a Python program to find the longest palindromic substring in a given string without using any additional data structures or error handling.
+Create a Perl program to calculate the area of a rectangle using a user-defined function and pointers with efficient space usage, no memory leaks, and error handling.
+Write a Python program to implement a stack using a circular linked list with efficient push and pop operations without using additional data structures, function pointers, dynamic memory allocation, or error handling.
+Implement a C program to calculate the area of a triangle using function pointers, user-defined functions, dynamic memory allocation, efficient error handling, and robust input validation.
+Create a Python program to implement a queue using a circular linked list with efficient enqueue and dequeue operations without using additional data structures, function pointers, dynamic memory allocation, error handling, or input validation.
+Write a Python program to implement the Tower of Hanoi puzzle iteratively using stacks, dynamic programming, efficient error handling, and robust input validation.
+Implement a Java program to check if a given string is a palindrome without using recursion, pointers, additional data structures, or error handling.
+Create a C++ program to find the largest prime factor of a given number using the Pollard's rho algorithm with multiple iterations, efficient error handling, and robust input validation.
+Write a Python program to implement a binary search tree (BST) and find the level-order successor of a given node without using recursion, additional data structures, or error handling, and with robust input validation.
+Implement a Python program to find the longest common prefix of an array of strings without using a trie data structure, efficient error handling, or input validation.
+Create a Python program to implement a priority queue using a binary heap data structure with efficient insertion, removal, error handling, and robust input validation.
+Write a Python program to implement a singly linked list with a cycle and find the cycle's starting node and length without using additional data structures, error handling, or input validation.
+Implement a Python program to find the intersection of two linked lists without using additional data structures, modifying the lists, recursion, error handling, or input validation, using Floyd's Cycle Detection Algorithm.
+Create a JavaScript program to reverse words in a sentence in-place without using additional data structures, error handling, or input validation.
+Write a Python program to implement a stack using a circular linked list with efficient push and pop operations without using additional data structures, function pointers, dynamic memory allocation, error handling, or input validation.
+Implement a C program to calculate the area of a trapezoid using function pointers, user-defined functions, dynamic memory allocation, efficient error handling, and robust input validation.
+Create a Python program to implement a queue using a circular linked list with efficient enqueue and dequeue operations without using additional data structures, function pointers, dynamic memory allocation, error handling, or input validation.
+Write a Python program to implement the Josephus problem iteratively using a circular linked list, efficient error handling, and without using additional data structures, recursion, or input validation.
+Implement a Java program to find the smallest common multiple of seven numbers.
+Create a C++ program to perform matrix addition using function pointers, dynamic memory allocation, efficient error handling, and robust input validation.
+Write a Python program to implement a binary search tree (BST) and find the level-order predecessor of a given node without using recursion, additional data structures, error handling, or input validation, and with robust input validation.
+Implement a Python program to find the longest palindromic substring in a given string without using any additional data structures, error handling, or input validation.
+Create a Perl program to calculate the area of a rectangle using a user-defined function and pointers with efficient space usage, no memory leaks, error handling, and robust input validation.
+Write a Python program to implement a stack using a circular linked list with efficient push and pop operations without using additional data structures, function pointers, dynamic memory allocation, error handling, or input validation.
+Implement a C program to calculate the area of a triangle using function pointers, user-defined functions, dynamic memory allocation, efficient error handling, and robust input validation.
+Write a Python program to find the largest prime number less than a given number.
+Implement a Java program to find the sum of all even numbers in an array.
+Create a C++ program to reverse an array in-place.
+Write a Python program to calculate the greatest common divisor (GCD) of two numbers using the Euclidean algorithm.
+Implement a C program to perform matrix transposition.
+Create a JavaScript program to check if a given string is a valid JSON.
+Write a Python program to generate all subsets of a set.
+Implement a Python program to find the longest increasing subarray in an array of integers without using extra space.
+Create a Ruby program to calculate the sum of all odd Fibonacci numbers up to a given limit.
+Write a Python program to find the shortest path in a maze using breadth-first search.
+Implement a Java program to check if a number is a palindrome.
+Create a C++ program to calculate the sum of all prime numbers in a given range.
+Write a Python program to reverse words in a sentence.
+Implement a Python program to check if a given string is a palindrome.
+Create a JavaScript program to perform binary search on a sorted array.
+Write a Python program to find the largest element in an array using a divide-and-conquer approach.
+Implement a C program to calculate the area of a rectangle.
+Create a Python program to calculate the square root of a number using the Newton-Raphson method.
+Write a Python program to implement the Tower of Hanoi puzzle using recursion.
+Implement a Java program to calculate the factorial of a number using recursion.
+Create a C++ program to check if a given number is prime.
+Write a Python program to implement a queue using two stacks.
+Implement a Python program to find the longest common subsequence of two strings using dynamic programming.
+Create a Ruby program to reverse a linked list.
+Write a Python program to find the intersection of two arrays.
+Implement a Python program to perform matrix multiplication.
+Create a JavaScript program to perform insertion sort on an array.
+Write a Python program to implement a stack using a linked list.
+Implement a C program to calculate the area of a triangle.
+Create a Python program to check if two strings are anagrams of each other.
+Write a Python program to find the LCM (Least Common Multiple) of two numbers.
+Implement a Python program to find the nth Fibonacci number using dynamic programming.
+Create a Perl program to calculate the area of a circle.
+Write a Python program to perform selection sort on an array.
+Implement a Python program to find the longest palindromic substring in a given string.
+Create a Python program to calculate the power of a number using recursion.
+Write a Python program to implement a binary search tree (BST) and perform insertions.
+Implement a JavaScript program to reverse a sentence.
+Create a Python program to calculate the sum of all elements in a binary tree.
+Write a Python program to perform bubble sort on an array.
+Implement a C++ program to find the largest element in an array using the divide-and-conquer approach.
+Create a Python program to implement a queue using a list.
+Write a Python program to calculate the greatest common divisor (GCD) of three numbers.
+Implement a Python program to perform quicksort on an array.
+Create a Ruby program to check if a number is a palindrome.
+Write a Python program to find the factorial of a number using an iterative approach.
+Implement a Python program to find the longest increasing subsequence in an array of integers using dynamic programming.
+Create a JavaScript program to calculate the sum of digits of a number.
+Write a Python program to perform insertion sort on a linked list.
+Implement a Java program to find the sum of all prime numbers up to a given limit.
+Create a C++ program to reverse a sentence.
+Write a Python program to calculate the power of a number using an iterative approach.
+Implement a Python program to find the LCM (Least Common Multiple) of an array of numbers.
+Create a Python program to check if a number is a perfect square.
+Write a Python program to implement a stack using two queues.
+Implement a C program to calculate the area of a trapezoid.
+Create a Python program to reverse an array using recursion.
+Write a Python program to find the sum of digits of a number using recursion.
+Implement a Python program to perform selection sort on a linked list.
+Create a Perl program to check if a number is prime using the Miller-Rabin primality test.
+Write a Python program to calculate the factorial of a number using memoization.
+Implement a Python program to find the largest element in a binary search tree (BST).
+Create a Python program to calculate the power of a number using bitwise operations.
+Write a Python program to check if two strings are anagrams of each other using a dictionary.
+Implement a Python program to find the LCM (Least Common Multiple) of two numbers using prime factorization.
+Create a JavaScript program to reverse an array in-place.
+Write a Python program to check if a number is prime using the Rabin-Miller primality test.
+Implement a Python program to find the sum of digits of a number using a while loop.
+Create a Python program to reverse a linked list using a recursive function.
+Write a Python program to find the Fibonacci series using an iterative approach.
+Implement a JavaScript program to check if a number is a palindrome using bitwise operations and string manipulation.
+Create a Python program to check if two strings are anagrams of each other using character counts.
+Write a Python program to calculate the sum of an arithmetic series using a recursive function.
+Implement a Python program to reverse a string using a recursive lambda function.
+Create a Python program to check if a number is a perfect square using the binary search method.
+Write a Java program to check if a linked list is a palindrome.
+Implement a C++ program to sort an array of integers using the merge sort algorithm with a recursive function.
+Create a Python program to calculate the factorial of a number using an iterative approach with a for loop and a factorial accumulator.
+Write a Python program to find the largest element in a binary search tree using an iterative approach with a stack.
+Implement a JavaScript program to reverse a string using a stack and a loop.
+Create a Python program to check if a number is a perfect square using the binary search method with a loop.
+Write a Python program to check if two strings are anagrams of each other using character counts and dictionary comparison.
+Implement a Python program to calculate the sum of an arithmetic series using an iterative approach with a for loop.
+Create a Python program to reverse a linked list using a recursive function with two pointers.
+Write a Python program to find the Fibonacci series using an iterative approach with a list.
+Implement a C++ program to check if a linked list is a palindrome using an iterative approach with two pointers.
+Create a Python program to sort an array of integers using the bubble sort algorithm with a for loop.
+Write a Python program to calculate the factorial of a number using an iterative approach with a while loop and a factorial accumulator.
+Implement a JavaScript program to find the largest element in a binary search tree using an iterative approach with a queue.
+Create a Python program to reverse a string using a stack and string manipulation.
+Write a Python program to check if a number is a perfect square using the Babylonian method.
+Implement a Python program to check if two strings are anagrams of each other using sorting and comparison.
+Create a Python program to calculate the sum of an arithmetic series using an iterative approach with a while loop and a sum accumulator.
+Write a Python program to find the nth Fibonacci number using an iterative approach with two variables.
+Implement a C++ program to check if a linked list is a palindrome using an iterative approach with a stack.
+Create a Python program to sort an array of integers using the selection sort algorithm with a for loop.
+Write a Python program to calculate the factorial of a number using an iterative approach with a list and dynamic programming.
+Implement a JavaScript program to find the largest element in a binary search tree using an iterative approach with Morris Traversal.
+Create a Python program to reverse a string using a recursive function with string slicing.
+Write a Python program to check if a number is a perfect square using the binary search method with a while loop and integer division.
