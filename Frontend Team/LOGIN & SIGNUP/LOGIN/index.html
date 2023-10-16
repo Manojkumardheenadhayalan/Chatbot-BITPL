@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<link rel="stylesheet" href="https://unpkg.com/ionicons@7.1.0/dist/css/ionicons.min.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AZTRABOT</title>
+<link rel="stylesheet" href="style.css">
+<style>
+    body {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        margin: 0;
+    }
+
+    .titlebox {
+        text-align: center;
+    }
+
+    .title {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 10px; /* Adjusted margin */
+    }
+
+    .title-text {
+        margin-top: 10px;
+    }
+
+    .login-box {
+        width: 300px; /* Adjusted width */
+    }
+
+    .social-icons {
+        display: flex;
+        justify-content: center;
+    }
+
+    .social-icons ion-icon {
+        font-size: 30px;
+        margin: 0 10px;
+        cursor: pointer;
+    }
+
+    /* Style the icon colors */
+    .google-icon {
+        color: #4285F4; /* Google Blue */
+    }
+
+    .facebook-icon {
+        color: #1877F2; /* Facebook Blue */
+    }
+
+    .linkedin-icon {
+        color: #0077B5; /* LinkedIn Blue */
+    }
+</style>
+</head>
+<body>
+    <div class="titlebox">
+        <div class="title">
+            <img src="login logo.png" alt="Title Image" class="title-image">
+            <h1 class="title-text">AZTRABOT</h1>
+            <h2 class="title-text">Ask Your Technical Queries Here</h2>
+                </div>
+    </div>
+
+    <div class="login-box">
+        <form action="">
+            <h2>Sign-in</h2>
+            <div class="input-box">
+                <span class="icon"><ion-icon name="mail"></ion-icon></span>
+                <input type="email" required>
+                <label>Email</label>
+            </div>
+            <div class="input-box">
+                <span class="icon"><ion-icon name="lock-closed"></ion-icon> </span>
+                <input type="password" required>
+                <label>Password</label>
+            </div>
+            <div class="remember-forgot">
+                <label><input type="checkbox"> Remember
+                me</label>
+                <a href="#">Forgot Password?</a>
+            </div>
+            <button type="submit">Login</button>
+            <br>
+            <br>
+            <div class="social-icons">
+                <ion-icon class="google-icon" name="logo-google"></ion-icon>
+                <ion-icon class="facebook-icon" name="logo-facebook"></ion-icon>
+                <ion-icon class="linkedin-icon" name="logo-linkedin"></ion-icon>
+            </div>
+           
+            <div class="register-link">
+                <p>Don't have an account? <a href="#">Register</a></p>
+            </div>
+         </form>
+    </div>
+
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</body>
+</html>
