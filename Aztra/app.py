@@ -97,18 +97,18 @@ def signin():
             table_name = f"{email}-{timestamp}"  # Create the table name
             
             # Create a new table with the format "mailID-timestamp"
-            create_table_query = f"""
-                CREATE TABLE {table_name} (
-                    prompt TEXT,
-                    answer TEXT
-                );
-            """
+            # create_table_query = f"""
+            #     CREATE TABLE {table_name} (
+            #         prompt TEXT,
+            #         answer TEXT
+            #     );
+            # """
 
-            try:
-                # Execute the query to create the new table
-                supabase.query(create_table_query)
-            except Exception as e:
-                return f"Login successful, but table creation failed: {str(e)}"
+            # try:
+            #     # Execute the query to create the new table
+            #     supabase.query(create_table_query)
+            # except Exception as e:
+            #     return f"Login successful, but table creation failed: {str(e)}"
             # User is authenticated, redirect to the chat page
             return redirect(url_for('chat', table_name=table_name))
         else:
