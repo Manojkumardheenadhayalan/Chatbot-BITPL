@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{% block title %}AztraBot - Your Technical Assistant{% endblock %}</title>
+    <link rel="icon" href="{{ url_for('static', filename='favicon.ico') }}" type="image/x-icon">
+    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css'>
+</head>
+<body>
+    <!-- Add the following code to display the flash messages -->    
+    {% with messages = get_flashed_messages() %}
+    {% if messages %}
+        <script>
+            // Display the flash message
+            alert("{{ messages[0] }}");
+        </script>
+    {% endif %}
+    {% endwith %}
+
+
+    {% block content %}
+    {% endblock %}
+</body>
+</html>
